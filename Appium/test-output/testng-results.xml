@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="13" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T13:37:38 IST" name="Default suite" finished-at="2023-08-28T13:37:38 IST" duration-ms="63">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T13:37:38 IST" name="Default test" finished-at="2023-08-28T13:37:38 IST" duration-ms="63">
+      <class name="com.test.SampleTest">
+        <test-method signature="reverseString()[pri:0, instance:com.test.SampleTest@7db12bb6]" started-at="2023-08-28T13:37:38 IST" name="reverseString" finished-at="2023-08-28T13:37:38 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverseString -->
+      </class> <!-- com.test.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
